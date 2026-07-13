@@ -112,9 +112,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-    <img src="./assets/circle.svg" />
-</div>
