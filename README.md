@@ -112,3 +112,13 @@
     </td>
   </tr>
 </table>
+<table align="center">
+    <tr>
+    <td align="center" width="96">
+      <a href="https://fr.wikipedia.org/wiki/Visual_Studio_Code">
+        <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" width="65" height="65" alt="Visual Studio Code" />
+      </a>
+      <br>Visual Studio Code
+    </td>
+  </tr>
+</table>
