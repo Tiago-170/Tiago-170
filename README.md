@@ -118,7 +118,7 @@
       <a href="https://fr.wikipedia.org/wiki/Visual_Studio_Code">
         <img src="https://www.svgrepo.com/show/354522/visual-studio-code.svg" width="65" height="65" alt="Visual Studio Code" />
       </a>
-      <br>Visual Studio Code
+      <br>VS Code
     </td>
   </tr>
 </table>
