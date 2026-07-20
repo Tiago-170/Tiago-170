@@ -59,6 +59,16 @@
   </tr>
 </table>
 <table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://fr.wikipedia.org/wiki/TypeScript">
+        <img src="https://www.svgrepo.com/show/354478/typescript-icon.svg" alt="TypeScript" width="65" height="65" />
+      </a>
+      <br>TypeScript
+    </td>
+  </tr>
+</table>
+<table align="center">
     <tr>
     <td align="center" width="96">
       <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language">
