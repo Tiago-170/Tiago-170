@@ -66,10 +66,6 @@
       </a>
       <br>TypeScript
     </td>
-  </tr>
-</table>
-<table align="center">
-    <tr>
     <td align="center" width="96">
       <a href="https://fr.wikipedia.org/wiki/Structured_Query_Language">
         <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="65" height="65" alt="Structured Query Language" />
