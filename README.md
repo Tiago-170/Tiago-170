@@ -1,7 +1,6 @@
 <div align="center">
-    <img width="4800" height="480" alt="output-onlinetools" src="https://github.com/user-attachments/assets/4459dbbe-de4c-4a16-af0e-d84f305d8db3" />
+    <img width="4800" height="480" alt="" src="https://github.com/user-attachments/assets/4459dbbe-de4c-4a16-af0e-d84f305d8db3" />
 </div>
-
 
 ---
 
